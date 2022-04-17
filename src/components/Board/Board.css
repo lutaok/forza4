@@ -1,0 +1,9 @@
+.board {
+  background-color: blue;
+  padding: 1rem 0.5rem;
+  margin-top: 2.5rem;
+  width: calc(150px * 7);
+  height: calc(150px * 6);
+  min-width: calc(150px * 7);
+  min-height: calc(150px * 6);
+}

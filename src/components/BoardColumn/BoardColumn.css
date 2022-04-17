@@ -1,0 +1,6 @@
+.board-column {
+  height: 100%;
+  width: calc(1050px / 7);
+  display: inline-block;
+  position: relative;
+}
